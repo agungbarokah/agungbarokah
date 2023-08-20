@@ -1,8 +1,8 @@
 # Halo semua! 
 
 Perkenalkan nama saya **Agung Barokah**.  
-Saya seorang **Siswa** di [Dicoding](https://www.dicoding.com/).  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/agung-barokah-b7a073232)ku ya.
+Saya merupakan **Fresh Graduate** D3 jurusan Manajemen Informatika Universitas Bina Insani. Saya sangat teratrik dengan bidang yang berhubungan web developer.  
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/agung-barokah)ku ya.
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
